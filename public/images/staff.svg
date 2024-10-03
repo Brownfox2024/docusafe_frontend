@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="svg2934" xmlns:svg="http://www.w3.org/2000/svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 682.7 682.7"
+	 style="enable-background:new 0 0 682.7 682.7;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_00000129920038014386581660000011078150653616147884_);}
+	.st1{fill:none;stroke:#FFFFFF;stroke-width:40;stroke-miterlimit:13.3333;}
+	.st2{fill:none;stroke:#FFFFFF;stroke-width:40;stroke-linecap:square;stroke-miterlimit:13.3333;}
+</style>
+<g id="g2940" transform="matrix(1.3333333,0,0,-1.3333333,0,682.66667)">
+	<g id="g2942">
+		<g>
+			<defs>
+				<rect id="SVGID_1_" x="-85.3" y="-85.3" width="682.7" height="682.7"/>
+			</defs>
+			<clipPath id="SVGID_00000012459009342932039430000001302502185310379913_">
+				<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+			</clipPath>
+			<g id="g2944" style="clip-path:url(#SVGID_00000012459009342932039430000001302502185310379913_);">
+				<g id="g2950" transform="translate(301,182)">
+					<path id="path2952" class="st1" d="M0,0c0-24.9-20.1-45-45-45S-90-24.9-90,0s20.1,45,45,45S0,24.9,0,0z"/>
+				</g>
+				<g id="g2954" transform="translate(346,15)">
+					<path id="path2956" class="st1" d="M0,0h-180v62c0,16.6,13.4,30,30,30h120c16.6,0,30-13.4,30-30V0z"/>
+				</g>
+				<g id="g2958" transform="translate(451,182)">
+					<path id="path2960" class="st1" d="M0,0c0-24.9-20.1-45-45-45S-90-24.9-90,0s20.1,45,45,45S0,24.9,0,0z"/>
+				</g>
+				<g id="g2962" transform="translate(316,107)">
+					<path id="path2964" class="st1" d="M0,0h151c16.6,0,30-13.4,30-30v-62H30"/>
+				</g>
+				<g id="g2966" transform="translate(151,182)">
+					<path id="path2968" class="st1" d="M0,0c0-24.9-20.1-45-45-45S-90-24.9-90,0s20.1,45,45,45S0,24.9,0,0z"/>
+				</g>
+				<g id="g2970" transform="translate(166,15)">
+					<path id="path2972" class="st1" d="M0,0h-151v62c0,16.6,13.4,30,30,30H30"/>
+				</g>
+				<g id="g2974" transform="translate(256,62)">
+					<path id="path2976" class="st1" d="M0,0v45"/>
+				</g>
+				<g id="g2978" transform="translate(136,377)">
+					<path id="path2980" class="st1" d="M0,0c0-66.3,53.7-120,120-120S240-66.3,240,0s-53.7,120-120,120S0,66.3,0,0z"/>
+				</g>
+				<g id="g2982" transform="translate(211,377)">
+					<path id="path2984" class="st2" d="M0,0l30-30l60,60"/>
+				</g>
+			</g>
+			<use xlink:href="#SVGID_1_"  style="overflow:visible;fill:none;stroke:#FFFFFF;stroke-miterlimit:10;"/>
+		</g>
+	</g>
+</g>
+</svg>
