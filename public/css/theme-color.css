@@ -1,0 +1,263 @@
+.theme_green .add_document.bg_blue .text_blue,.theme_green .text_blue{color: #275d2b !important;}
+.theme_green .round_blue{background-color: #275d2b;}
+.theme_green .history-link span{color: #275d2b;}  
+.theme_green .credit-envelope span,.theme_green .credit-sms span,.theme_green .Credits-Left,.theme_green .Credits-Used {color: #275d2b;} 
+.theme_green .invoice-number{color: #275d2b;}   
+.theme_green .plan_name{ color: #275d2b;}
+.theme_green .number-minus-button,.theme_green .number-plus-button{color:#275d2b;}
+.theme_green .preview-modal-header .nav-link.active{background:#275d2b;}
+.theme_green .user_login{ background-color: #275d2b;}  
+.theme_green .navbar-toggler-icon{color: #275d2b ;}  
+.theme_green .Envelope_count_section h2 span{color: #275d2b;}        
+.theme_green .Envelope_count_section .upgrade {border: 3px solid #275d2b;color: #275d2b;}                            
+.theme_green .start_now button {background-color: #275d2b;} 
+.theme_green .user_icon {background-color: #275d2b;}   
+.theme_green .user_profile{color: #275d2b;}                
+.theme_green .sign_out{color: #275d2b;}
+.theme_green .step_wizard_button .btn_outline {color: #275d2b;border-color: #275d2b;}                                   
+.theme_green .step_wizard_button .btn-primary,.theme_green .tab_footer_button .btn-primary {background-color: #275d2b !important;border-color: #275d2b !important;}   
+.theme_green .accordion_primary_btn .btn{background-color: #275d2b !important;border-color: #275d2b !important;}       
+.theme_green .recipients_data{background-color: var(--secondary-color-100);}	
+.theme_green .nav-tabs {border-bottom: 2px solid #275d2b;}   
+.theme_green .setting_tab .setting_sidebar .nav-tabs {border-bottom: 2px solid transparent;}  
+.theme_green .nav-tabs.wrap_left,.theme_green .nav-tabs.btn_wrap{border-bottom: 0px;}
+.theme_green .user_sidebar .nav-tabs {border-bottom: 0px solid var(--green);}
+.theme_green .templates_page .nav-tabs{border-bottom: 0px}   
+
+.theme_green .setting_tab .setting_sidebar .nav-link.active,.theme_green .setting_tab .setting_sidebar .nav-link:hover{color: #275d2b;background-color:transparent;border-bottom: 1px solid transparent ;} 
+.theme_green .setting_tab .nav-link.active,.theme_green .setting_tab .nav-link:hover{background-color: #275d2b;border-bottom: 1px solid #275d2b;border-bottom: 0px;}.theme_green .setting_sidebar ul li a:hover,.theme_green .setting_sidebar ul li a.active{color: #275d2b;}
+.theme_green .security_steps .security_count{background-color: #275d2b;}     
+.theme_green .edit_option{color: #275d2b !important;}
+.theme_green .Action_perform{background-color: #275d2b;}
+.theme_green .table_header_wrap .wrap_left button{ border: 1px solid #275d2b;}
+.theme_green .table_header_wrap .wrap_left button.active{background-color: #275d2b;color: var(--white);border: 1px solid #275d2b;}
+.theme_green .table_header_wrap .wrap_left button:hover{border: 1px solid #275d2b;}
+.theme_green .main_title .functional_icon_ellipsis{background-color: #275d2b;} 
+.theme_green .template_envelope_name:after{color:#275d2b;}       
+.theme_green .templates_page .nav-tabs .nav-item.show .nav-link,.theme_green .templates_page .nav-tabs .nav-link.active{
+    background-color: var(--secondary-color-100);color: #275d2b;}
+.theme_green .template_main_title{border-bottom: 2px solid #275d2b;padding-bottom: 10px;}
+.theme_green .plus_btn span{color: var(--white);background-color: #275d2b;font-size: 17px;border-radius: 100px;height: 25px;width: 25px;display: inline-flex;align-items: center;justify-content: center;}
+.theme_green .setting_tab   .form-check-input:checked {background-color: #275d2b;border-color: #275d2b; } 
+.theme_green .preview-modal-header .nav-link.active{background:#275d2b;}
+
+.theme_green .navbar-toggler-icon{height: auto !important;color: #275d2b ;background-image:unset !important;width:auto !important;}  
+.theme_green .login_nav .navbar-nav .nav-item.active{ font-family: 'Rubik-Regular';  font-size: 16px;color: #275d2b;} 
+.theme_green .upgrade {border: 3px solid #275d2b; color: #275d2b;background: var(--white); padding: 7px 18px;border-radius: 50px;font-size: 20px;font-family: 'Rubik-Regular';letter-spacing: 0.22px;}
+.theme_green .start_now button {background-color: #275d2b;color: var(--white); padding: 10px 24px;font-size: 20px;border: none;border-radius: 50px; font-family: 'Rubik-Regular';max-width: 185px;letter-spacing: 0.29px;}
+.theme_green .mail-box-wrapper .card-body label span{display:inline-block;color: var(--white);background-color: #275d2b;padding: 5px 10px ;border-radius: 0.25rem;letter-spacing: 1px;margin-left: 5px;}
+.theme_green .nav-tabs .nav-link.active {color:#fff;}
+.theme_green .document_form_wrap .nav-tabs .nav-link.active{color:#000;}
+.theme_green .icon_box{background-color:#275d2b;width:40px;height:40px;border-radius:100px;display:inline-flex;align-items:center;justify-content:center;margin-bottom:25px;}
+.theme_green .pagination li.active {background-color:#275d2b;}
+.theme_green .pagination li.active a{color:#fff;}
+.theme_green .pagination li a{color:#275d2b;font-size:14px;line-height:normal;}
+.theme_green .position_card .badge{padding:5px;border-radius:4px;background-color:var(--secondary-color-100);color:#275d2b;font-size:10px;}
+.theme_green #button:hover {cursor: pointer;background-color:#275d2b;}
+.theme_green .plan_name{ color: #275d2b;font-size: 22px;font-family: Rubik-SemiBold;text-align: center;margin-bottom:5px;}  
+.theme_green .number-minus-button,.theme_green .number-plus-button{font-size: 24px;border-radius:4px;padding:8px 5px 8px 5px;display: inline-block;vertical-align: middle;text-align: center;color:#275d2b;cursor:pointer;}
+.theme_green .bg-primary,.theme_green .btn-primary{background-color: #275d2b !important;}
+.theme_green .btn-primary{border-color: #275d2b !important;}
+.theme_green .dropdown-menu a ,.theme_green .history-link a,.theme_green .text-primary{color: #275d2b !important;}
+.theme_green .setting_tab .nav-link.active img,.theme_green .setting_tab .nav-link:hover img {
+    filter: invert(30%) sepia(11%) saturate(2452%) hue-rotate(74deg) brightness(94%) contrast(91%);;
+}
+
+/*--------------------THEME PURPLE-------------------*/
+
+.theme_purple .add_document.bg_blue .text_blue,.theme_purple .text_blue{color: #462a68 !important;}
+.theme_purple .round_blue{background-color: #462a68;}
+.theme_purple .history-link span{color: #462a68;}  
+.theme_purple .credit-envelope span,.theme_purple .credit-sms span,.theme_purple .Credits-Left,.theme_purple .Credits-Used {color: #462a68;} 
+.theme_purple .invoice-number{color: #462a68;}   
+.theme_purple .plan_name{ color: #462a68;}
+.theme_purple .number-minus-button,.theme_purple .number-plus-button{color:#462a68;}
+.theme_purple .preview-modal-header .nav-link.active{background:#462a68;}
+.theme_purple .user_login{ background-color: #462a68;}  
+.theme_purple .navbar-toggler-icon{color: #462a68 ;}  
+.theme_purple .Envelope_count_section h2 span{color: #462a68;}        
+.theme_purple .Envelope_count_section .upgrade {border: 3px solid #462a68;color: #462a68;}                            
+.theme_purple .start_now button {background-color: #462a68;} 
+.theme_purple .user_icon {background-color:#462a68;}   
+.theme_purple .user_profile{color: #462a68;}                
+.theme_purple .sign_out{color: #462a68;}
+.theme_purple .step_wizard_button .btn_outline {color: #462a68;border-color: #462a68;}                                   
+.theme_purple .step_wizard_button .btn-primary,.theme_purple .tab_footer_button .btn-primary {background-color: #462a68 !important;border-color: #462a68 !important;}  
+.theme_purple .accordion_primary_btn .btn{background-color: #462a68 !important;border-color: #462a68 !important;}       
+.theme_purple .recipients_data{background-color: var(--secondary-color-100);}	
+.theme_purple .nav-tabs {border-bottom: 2px solid #462a68;} 
+.theme_purple .setting_tab .setting_sidebar .nav-tabs {border-bottom: 2px solid transparent;}  
+.theme_purple .nav-tabs.wrap_left,.theme_purple .nav-tabs.btn_wrap{border-bottom: 0px;}
+.theme_purple .user_sidebar .nav-tabs {border-bottom: 0px solid var(--green);}
+.theme_purple .templates_page .nav-tabs{border-bottom: 0px}
+.theme_purple .setting_tab .nav-link.active,.theme_purple .setting_tab .nav-link:hover{background-color: #462a68;border-bottom: 1px solid #462a68;border-bottom: 0px;}
+.theme_purple .setting_tab .setting_sidebar .nav-link.active,.theme_purple .setting_tab .setting_sidebar .nav-link:hover{color: #462a68; background-color:transparent;border-bottom: 1px solid transparent ;} 
+.theme_purple .setting_sidebar ul li a:hover,.theme_purple .setting_sidebar ul li a.active{color: #462a68;}
+.theme_purple .security_steps .security_count{background-color: #462a68;}     
+.theme_purple .edit_option{color: #462a68 !important;}
+.theme_purple .Action_perform{background-color: #462a68;}
+.theme_purple .table_header_wrap .wrap_left button{ border: 1px solid #462a68;}
+.theme_purple .table_header_wrap .wrap_left button.active{background-color: #462a68;color: var(--white);border: 1px solid #462a68;}
+.theme_purple .table_header_wrap .wrap_left button:hover{border: 1px solid #462a68;}
+.theme_purple .main_title .functional_icon_ellipsis{background-color: #462a68;} 
+.theme_purple .template_envelope_name:after{color:#462a68;}       
+.theme_purple .templates_page .nav-tabs .nav-item.show .nav-link,.theme_purple .templates_page .nav-tabs .nav-link.active{
+    background-color: var(--secondary-color-100);color: #462a68;}
+.theme_purple .template_main_title{border-bottom: 2px solid #462a68;padding-bottom: 10px;}
+.theme_purple .plus_btn span{color: var(--white);background-color: #462a68;font-size: 17px;border-radius: 100px;height: 25px;width: 25px;display: inline-flex;align-items: center;justify-content: center;}
+.theme_purple .setting_tab   .form-check-input:checked {background-color: #462a68;border-color: #462a68; } 
+.theme_purple .preview-modal-header .nav-link.active{background:#462a68;}
+
+.theme_purple .navbar-toggler-icon{height: auto !important;color: #462a68 ;background-image:unset !important;width:auto !important;}  
+.theme_purple .login_nav .navbar-nav .nav-item.active{ font-family: 'Rubik-Regular';  font-size: 16px;color: #462a68;} 
+.theme_purple .upgrade {border: 3px solid #462a68; color: #462a68;background: var(--white); padding: 7px 18px;border-radius: 50px;font-size: 20px;font-family: 'Rubik-Regular';letter-spacing: 0.22px;}
+.theme_purple .start_now button {background-color: #462a68;color: var(--white); padding: 10px 24px;font-size: 20px;border: none;border-radius: 50px; font-family: 'Rubik-Regular';max-width: 185px;letter-spacing: 0.29px;}
+.theme_purple .mail-box-wrapper .card-body label span{display:inline-block;color: var(--white);background-color: #462a68;padding: 5px 10px ;border-radius: 0.25rem;letter-spacing: 1px;margin-left: 5px;}
+.theme_purple .nav-tabs .nav-link.active {color:#fff;}
+.theme_purple .document_form_wrap .nav-tabs .nav-link.active{color:#000;}
+.theme_purple .icon_box{background-color:#462a68;width:40px;height:40px;border-radius:100px;display:inline-flex;align-items:center;justify-content:center;margin-bottom:25px;}
+.theme_purple .pagination li.active {background-color:#462a68;}
+.theme_purple .pagination li.active a{color:#fff;}
+.theme_purple .pagination li a{color:#462a68;font-size:14px;line-height:normal;}
+.theme_green .position_card .badge{padding:5px;border-radius:4px;background-color:var(--secondary-color-100);color:#462a68;font-size:10px;}
+.theme_purple #button:hover {cursor: pointer;background-color:#462a68;}
+.theme_purple .plan_name{ color: #462a68;font-size: 22px;font-family: Rubik-SemiBold;text-align: center;margin-bottom:5px;}  
+.theme_purple .number-minus-button,.theme_purple .number-plus-button{font-size: 24px;border-radius:4px;padding:8px 5px 8px 5px;display: inline-block;vertical-align: middle;text-align: center;color:#462a68;cursor:pointer;}
+.theme_purple .bg-primary,.theme_purple .btn-primary{background-color: #462a68 !important;}
+.theme_purple .btn-primary{border-color: #462a68 !important;}
+.theme_purple .dropdown-menu a ,.theme_purple .history-link a,.theme_purple .text-primary{color: #462a68 !important; }
+.theme_purple .setting_tab .nav-link.active img,.theme_purple .setting_tab .nav-link:hover img {
+    filter: invert(14%) sepia(28%) saturate(3569%) hue-rotate(245deg) brightness(98%) contrast(88%);
+}
+
+/*--------------------THEME ORANGE-------------------*/
+
+.dark_orange .add_document.bg_blue .text_blue,.dark_orange .text_blue{color: #6d1212 !important;}
+.dark_orange .round_blue{background-color: #6d1212;}
+.dark_orange .history-link span{color: #6d1212;}  
+.dark_orange .credit-envelope span,.dark_orange .credit-sms span,.dark_orange .Credits-Left,.dark_orange .Credits-Used {color: #6d1212;} 
+.dark_orange .invoice-number{color: #6d1212;}   
+.dark_orange .plan_name{ color: #6d1212;}
+.dark_orange .number-minus-button,.dark_orange .number-plus-button{color:#6d1212;}
+.dark_orange .preview-modal-header .nav-link.active{background:#6d1212;}
+.dark_orange .user_login{ background-color: #6d1212;}  
+.dark_orange .navbar-toggler-icon{color: #6d1212 ;}  
+.dark_orange .Envelope_count_section h2 span{color: #6d1212;}        
+.dark_orange .Envelope_count_section .upgrade {border: 3px solid #6d1212;color: #6d1212;}                            
+.dark_orange .start_now button {background-color: #6d1212;} 
+.dark_orange .user_icon {background-color:#6d1212;}   
+.dark_orange .user_profile{color: #6d1212;}                
+.dark_orange .sign_out{color: #6d1212;}
+.dark_orange .step_wizard_button .btn_outline {color: #6d1212;border-color: #6d1212;}                                   
+.dark_orange .step_wizard_button .btn-primary,.dark_orange .tab_footer_button .btn-primary {background-color: #6d1212 !important;border-color: #6d1212 !important;}   
+.dark_orange .accordion_primary_btn .btn{background-color: #6d1212 !important;border-color: #6d1212 !important;}       
+.dark_orange .recipients_data{background-color: var(--secondary-color-100);}	
+.dark_orange .nav-tabs {border-bottom: 2px solid #6d1212;}   
+.dark_orange .setting_tab .setting_sidebar .nav-tabs {border-bottom: 2px solid transparent;}  
+.dark_orange .nav-tabs.wrap_left,.dark_orange .nav-tabs.btn_wrap{border-bottom: 0px;}
+.dark_orange .user_sidebar .nav-tabs {border-bottom: 0px solid var(--green);}
+.dark_orange .templates_page .nav-tabs{border-bottom: 0px}
+.dark_orange .setting_tab .setting_sidebar .nav-link.active,.dark_orange .setting_tab .setting_sidebar .nav-link:hover{color:#6d1212;background-color:transparent;border-bottom: 1px solid transparent ;} 
+.dark_orange .setting_tab .nav-link.active,.dark_orange .setting_tab .nav-link:hover{background-color:#6d1212;border-bottom: 1px solid #6d1212;border-bottom: 0px;}.dark_orange .setting_sidebar ul li a:hover,.dark_orange .setting_sidebar ul li a.active{color: #6d1212;}
+.dark_orange .security_steps .security_count{background-color: #6d1212;}     
+.dark_orange .edit_option{color:#6d1212 !important;}
+.dark_orange .Action_perform{background-color: #6d1212;}
+.dark_orange .table_header_wrap .wrap_left button{ border: 1px solid #6d1212;}
+.dark_orange .table_header_wrap .wrap_left button.active{background-color: #6d1212;color: var(--white);border: 1px solid #6d1212;}
+.dark_orange .table_header_wrap .wrap_left button:hover{border: 1px solid #6d1212;}
+.dark_orange .main_title .functional_icon_ellipsis{background-color: #6d1212;} 
+.dark_orange .template_envelope_name:after{color:#6d1212;}       
+.dark_orange .templates_page .nav-tabs .nav-item.show .nav-link,.dark_orange .templates_page .nav-tabs .nav-link.active{
+    background-color: var(--secondary-color-100);color: #6d1212;}
+.dark_orange .template_main_title{border-bottom: 2px solid #6d1212;padding-bottom: 10px;}
+.dark_orange .plus_btn span{color: var(--white);background-color: #6d1212;font-size: 17px;border-radius: 100px;height: 25px;width: 25px;display: inline-flex;align-items: center;justify-content: center;}
+.dark_orange .setting_tab   .form-check-input:checked {background-color: #6d1212;border-color: #6d1212; } 
+.dark_orange .preview-modal-header .nav-link.active{background:#6d1212;}
+
+.dark_orange .navbar-toggler-icon{height: auto !important;color: #6d1212 ;background-image:unset !important;width:auto !important;}  
+.dark_orange .login_nav .navbar-nav .nav-item.active{ font-family: 'Rubik-Regular';  font-size: 16px;color: #6d1212;} 
+.dark_orange .upgrade {border: 3px solid #6d1212; color: #6d1212;background: var(--white); padding: 7px 18px;border-radius: 50px;font-size: 20px;font-family: 'Rubik-Regular';letter-spacing: 0.22px;}
+.dark_orange .start_now button {background-color: #6d1212;color: var(--white); padding: 10px 24px;font-size: 20px;border: none;border-radius: 50px; font-family: 'Rubik-Regular';max-width: 185px;letter-spacing: 0.29px;}
+.dark_orange .mail-box-wrapper .card-body label span{display:inline-block;color: var(--white);background-color: #6d1212;padding: 5px 10px ;border-radius: 0.25rem;letter-spacing: 1px;margin-left: 5px;}
+.dark_orange .nav-tabs .nav-link.active {color:#fff;}
+.dark_orange .document_form_wrap .nav-tabs .nav-link.active{color:#000;}
+.dark_orange .icon_box{background-color:#6d1212;width:40px;height:40px;border-radius:100px;display:inline-flex;align-items:center;justify-content:center;margin-bottom:25px;}
+.dark_orange .pagination li.active {background-color:#6d1212;}
+.dark_orange .pagination li.active a{color:#fff;}
+.dark_orange .pagination li a{color:#6d1212;font-size:14px;line-height:normal;}
+.dark_orange .position_card .badge{padding:5px;border-radius:4px;background-color:var(--secondary-color-100);color:#6d1212;font-size:10px;}
+.dark_orange #button:hover {cursor: pointer;background-color:#6d1212;}
+.dark_orange .plan_name{ color: #6d1212;font-size: 22px;font-family: Rubik-SemiBold;text-align: center;margin-bottom:5px;}  
+.dark_orange .number-minus-button,.dark_orange .number-plus-button{font-size: 24px;border-radius:4px;padding:8px 5px 8px 5px;display: inline-block;vertical-align: middle;text-align: center;color:#6d1212;cursor:pointer;}
+.dark_orange .bg-primary,.dark_orange .btn-primary{background-color: #6d1212 !important;}
+.dark_orange .btn-primary{border-color: #6d1212 !important;}
+.dark_orange .dropdown-menu a ,.dark_orange .history-link a,.dark_orange .text-primary{color: #6d1212 !important;}
+.dark_orange .setting_tab .nav-link.active img,.dark_orange .setting_tab .nav-link:hover img {
+    filter: invert(5%) sepia(98%) saturate(7397%) hue-rotate(6deg) brightness(77%) contrast(86%);
+}
+/*--------------------THEME PINK-------------------*/
+
+.dark_pink .add_document.bg_blue .text_blue,.dark_pink .text_blue{color: #e75480 !important;}
+.dark_pink .round_blue{background-color: #e75480;}
+.dark_pink .history-link span{color: #e75480;}
+.dark_pink .credit-envelope span,.dark_pink .credit-sms span,.dark_pink .Credits-Left,.dark_pink .Credits-Used {color: #e75480;}
+.dark_pink .invoice-number{color: #e75480;}
+.dark_pink .plan_name{ color: #e75480;}
+.dark_pink .number-minus-button,.dark_pink .number-plus-button{color:#e75480;}
+.dark_pink .preview-modal-header .nav-link.active{background:#e75480;}
+.dark_pink .user_login{ background-color: #e75480;}
+.dark_pink .navbar-toggler-icon{color: #e75480;}
+.dark_pink .Envelope_count_section h2 span{color: #e75480;}
+.dark_pink .Envelope_count_section .upgrade {border: 3px solid #e75480;color: #e75480;}
+.dark_pink .start_now button {background-color: #e75480;}
+.dark_pink .user_icon {background-color:#e75480;}
+.dark_pink .user_profile{color: #e75480;}
+.dark_pink .sign_out{color: #e75480;}
+.dark_pink .step_wizard_button .btn_outline {color: #e75480;border-color: #e75480;}
+.dark_pink .step_wizard_button .btn-primary,.dark_pink .tab_footer_button .btn-primary {background-color: #e75480 !important;border-color: #e75480 !important;}
+.dark_pink .accordion_primary_btn .btn{background-color: #e75480 !important;border-color: #e75480 !important;}
+.dark_pink .recipients_data{background-color: var(--secondary-color-100);}
+.dark_pink .nav-tabs {border-bottom: 2px solid #e75480;}
+.dark_pink .setting_tab .setting_sidebar .nav-tabs {border-bottom: 2px solid transparent;}
+.dark_pink .nav-tabs.wrap_left,.dark_pink .nav-tabs.btn_wrap{border-bottom: 0px;}
+.dark_pink .user_sidebar .nav-tabs {border-bottom: 0px solid var(--green);}
+.dark_pink .templates_page .nav-tabs{border-bottom: 0px}
+.dark_pink .setting_tab .setting_sidebar .nav-link.active,.dark_pink .setting_tab .setting_sidebar .nav-link:hover{color:#e75480;background-color:transparent;border-bottom: 1px solid transparent;}
+.dark_pink .setting_tab .nav-link.active,.dark_pink .setting_tab .nav-link:hover{background-color:#e75480;border-bottom: 1px solid #e75480;border-bottom: 0px;}.dark_pink .setting_sidebar ul li a:hover,.dark_pink .setting_sidebar ul li a.active{color: #e75480;}
+.dark_pink .security_steps .security_count{background-color:#e75480;}
+.dark_pink .edit_option{color:#e75480 !important;}
+.dark_pink .Action_perform{background-color: #e75480;}
+.dark_pink .table_header_wrap .wrap_left button{ border: 1px solid #e75480;}
+.dark_pink .table_header_wrap .wrap_left button.active{background-color: #e75480;color: var(--white);border: 1px solid #e75480;}
+.dark_pink .table_header_wrap .wrap_left button:hover{border: 1px solid #e75480;}
+.dark_pink .main_title .functional_icon_ellipsis{background-color: #e75480;}
+.dark_pink .template_envelope_name:after{color:#e75480;}
+.dark_pink .templates_page .nav-tabs .nav-item.show .nav-link,.dark_pink .templates_page .nav-tabs .nav-link.active{
+    background-color: var(--secondary-color-100);color: #e75480;}
+.dark_pink .template_main_title{border-bottom: 2px solid #e75480;padding-bottom: 10px;}
+.dark_pink .plus_btn span{color: var(--white);background-color: #e75480;font-size: 17px;border-radius: 100px;height: 25px;width: 25px;display: inline-flex;align-items: center;justify-content: center;}
+.dark_pink .setting_tab   .form-check-input:checked {background-color: #e75480;border-color: #e75480;}
+.dark_pink .preview-modal-header .nav-link.active{background:#e75480;}
+
+.dark_pink .navbar-toggler-icon{height: auto !important;color:#e75480;background-image:unset !important;width:auto !important;}
+.dark_pink .login_nav .navbar-nav .nav-item.active{ font-family: 'Rubik-Regular';  font-size: 16px;color: #e75480;}
+.dark_pink .upgrade {border: 3px solid #e75480; color: #e75480;background: var(--white); padding: 7px 18px;border-radius: 50px;font-size: 20px;font-family: 'Rubik-Regular';letter-spacing: 0.22px;}
+.dark_pink .start_now button {background-color: #e75480;color: var(--white); padding: 10px 24px;font-size: 20px;border: none;border-radius: 50px; font-family: 'Rubik-Regular';max-width: 185px;letter-spacing: 0.29px;}
+.dark_pink .mail-box-wrapper .card-body label span{display:inline-block;color: var(--white);background-color: #e75480;padding: 5px 10px ;border-radius: 0.25rem;letter-spacing: 1px;margin-left: 5px;}
+.dark_pink .nav-tabs .nav-link.active {color:#fff;}
+.dark_pink .document_form_wrap .nav-tabs .nav-link.active{color:#000;}
+.dark_pink .icon_box{background-color:#e75480;width:40px;height:40px;border-radius:100px;display:inline-flex;align-items:center;justify-content:center;margin-bottom:25px;}
+.dark_pink .pagination li.active {background-color:#e75480;}
+.dark_odark_pinkrange .pagination li.active a{color:#fff;}
+.dark_pink .pagination li a{color:#e75480;font-size:14px;line-height:normal;}
+.dark_pink .pagination li.active a {color: #ffffff;}
+.dark_pink .position_card .badge{padding:5px;border-radius:4px;background-color:var(--secondary-color-100);color:#e75480;font-size:10px;}
+.dark_pink #button:hover {cursor: pointer;background-color:#e75480;}
+.dark_pink .plan_name{ color: #e75480;font-size: 22px;font-family: Rubik-SemiBold;text-align: center;margin-bottom:5px;}
+.dark_pink .number-minus-button,.dark_pink .number-plus-button{font-size: 24px;border-radius:4px;padding:8px 5px 8px 5px;display: inline-block;vertical-align: middle;text-align: center;color:#e75480;cursor:pointer;}
+.dark_pink .bg-primary ,.dark_pink .btn-primary{background-color: #e75480 !important;}
+.dark_pink .btn-primary{border-color: #e75480 !important;}
+.dark_pink .dropdown-menu a ,.dark_pink .history-link a,.dark_pink .text-primary{color: #e75480 !important; }
+.dark_pink .setting_tab .nav-link.active img,.dark_pink .setting_tab .nav-link:hover img {
+    filter: invert(10%) sepia(55%) saturate(3051%) hue-rotate(312deg) brightness(110%) contrast(103%);
+}
