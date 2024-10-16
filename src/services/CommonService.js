@@ -202,6 +202,10 @@ export function manageEnvelopeSetting(data) {
     return axiosInstance.post(`envelope/manage/setting`, data);
 }
 
+export function manageFiles(data) {
+    return axiosInstance.post(`envelope/files`,data)
+}
+
 export function manageEnvelopeBulkMessage(data) {
     return axiosInstance.post(`envelope/manage/bulk-message`, data);
 }
@@ -274,6 +278,10 @@ export function docFormTemplateUse(data) {
 export function envelopeHistory(data) {
     return axiosInstance.post(`envelope/history`, data);
 }
+
+// export function envelopeFiles(data) {
+//     return axiosInstance.post(`envelope/files`, data);
+// }
 
 export function getEnvelopeDataInAddRecipient(data) {
     return axiosInstance.post(`envelope/detail-for-add-recipient`, data);

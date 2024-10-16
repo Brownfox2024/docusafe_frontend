@@ -3,6 +3,7 @@ import {NavLink, useNavigate, useLocation, useParams} from 'react-router-dom';
 import EnvSetting from "./EnvSetting";
 import EnvHistory from "./EnvHistory";
 import EnvMessages from "./EnvMessages";
+import EnvFiles from "./EnvFiles";
 import {
     checkTemplatePost,
     envelopeDownloadData,
@@ -693,8 +694,12 @@ function ViewEnvelope(props) {
                                     data-bs-target="#EnvSetting" type="button" role="tab" aria-controls="EnvSetting"
                                     aria-selected="false">Envelope Settings
                             </button>
+                            <button className="nav-link" id="EnvFiles-tab" data-bs-toggle="tab" data-bs-target="#EnvFiles" 
+                                    type="button" role="tab" aria-controls="EnvFiles" aria-selected="false" >Files 
+                            </button>
+                             
                         </div>
-
+                        
                         <div className="tab-content  px-3" id="nav-tabContent"
                              style={{minHeight: 'calc(100vh - 303px)'}}>
 
@@ -1007,10 +1012,15 @@ function ViewEnvelope(props) {
 
                             <EnvSetting envelopeData={envelopeData} setEnvelopeData={setEnvelopeData}
                                         setLoading={setLoading} syncStatusList={syncStatusList}/>
+
+                            <EnvFiles/>
                         </div>
+                    
+                    
                     </>
                     }
-
+                    
+               
                     {isEditRequest &&
                     <EditRequest setIsEditRequest={setIsEditRequest} envelopeData={envelopeData} isTemplate={isTemplate}
                                  setEnvelopeData={setEnvelopeData} setIsRefresh={setIsRefresh} setLoading={setLoading}/>
